@@ -1,0 +1,52 @@
+p {
+    margin: 0px 50px 0px 25px;
+    font-family: "Arial", Sans-serif;
+    text-indent: 25px
+}
+
+body {
+    background-color: #9FFF99;
+}
+
+img {
+    margin:25px 0px 0px 100px;
+}
+
+#descriptionone{
+    font-family: Sans-serif;
+    font-size: 12px;
+    padding: 0px 0px 25px 50px;
+}
+#descriptiontwo{
+    font-family: Sans-serif;
+    font-size: 12px;
+    padding: 0px 0px 25px 50px;
+}
+#descriptionthree{
+    font-family: Sans-serif;
+    font-size: 12px;
+    padding: 0px 0px 25px 50px;
+}
+#Headline {
+    padding: 25px 0px 25px 0px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: "Lucida Console", monospace;
+}
+
+h3 {
+    font-family: "Lusida Console", monospace;
+    font-size: 25px;
+    text-align: center;
+}
+.Header {
+    padding: 10px 15px 10px 15px;
+    font-weight: bold;
+    font-family: "Lucida Console", monospace;
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
+}
